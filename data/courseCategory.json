@@ -1,26 +1,32 @@
 [
     {
         "id": "00",
-        "name": "All courses"
+        "name": "All courses",
+        "total" : "30"
     },
     {
         "id": "01",
-        "name": "Computer Science"
+        "name": "Computer Science",
+        "total" : "5"
     },
     {
         "id": "02",
-        "name": "Programming Languages"
+        "name": "Programming Languages",
+        "total" : "6"
     },
     {
         "id": "03",
-        "name": "Web Development"
+        "name": "Web Development",
+        "total" : "9"
     },
     {
         "id": "04",
-        "name": "Machine Learning"
+        "name": "Machine Learning",
+        "total" : "4"
     },
     {
         "id": "05",
-        "name": "Others"
+        "name": "Others",
+        "total" : "6"
     }
 ]

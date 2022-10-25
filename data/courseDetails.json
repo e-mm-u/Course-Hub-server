@@ -2,7 +2,7 @@
     {
         "course_id": "1",
         "category_id": "01",
-        "photoURL": "Olive",
+        "photoURL": "https://img.freepik.com/premium-vector/algorithm-concept-with-icon-set-template-banner-circle-round-shape_25156-971.jpg",
         "details": "Corporate university",
         "rating": "4.0",
         "fee": "4683",
@@ -12,7 +12,7 @@
     {
         "course_id": "2",
         "category_id": "01",
-        "photoURL": "Magenta",
+        "photoURL": "https://img.freepik.com/premium-vector/server-room-system-administration-control-center-it-technology_126283-405.jpg",
         "details": "University college",
         "rating": "2.0",
         "fee": "1943",
@@ -22,7 +22,7 @@
     {
         "course_id": "3",
         "category_id": "01",
-        "photoURL": "Green",
+        "photoURL": "https://img.freepik.com/premium-vector/continuous-one-line-drawing-business-team-looking-gear-system-working-business-operation-training-workshop-concept-single-line-draw-design-vector-graphic-illustration_638785-482.jpg",
         "details": "Middle school",
         "rating": "4.5",
         "fee": "3467",
@@ -32,7 +32,7 @@
     {
         "course_id": "4",
         "category_id": "01",
-        "photoURL": "Red",
+        "photoURL": "https://img.freepik.com/premium-vector/gear-set-compilation-gold-silver-colors-teamwork-concept-cogwheel-elements-mechanism-motor-clock-circle-parts-with-cogs-teamwork-process-with-gear-cogwheels-concept_250257-3456.jpg",
         "details": "University-preparatory school",
         "rating": "3.9",
         "fee": "3468",
@@ -42,9 +42,9 @@
     {
         "course_id": "5",
         "category_id": "01",
-        "photoURL": "Mauve",
+        "photoURL": "https://img.freepik.com/premium-vector/chalkboard-mathematical-formulas-calculations-illustration-algebraic-computation-with-chalk-geometric-drawings-basic-equations-theorems-school-university-vector-education_146957-1026.jpg",
         "details": "High school",
-        "rating": "2.2956195577493",
+        "rating": "2.2",
         "fee": "3447",
         "title": "Theory of Computation",
         "requiredTime": "13"
@@ -52,7 +52,7 @@
     {
         "course_id": "6",
         "category_id": "02",
-        "photoURL": "Brown",
+        "photoURL": "https://img.freepik.com/premium-vector/cute-colored-c-letter-with-flowers-hand-drawing-font-name-postcard-design_637721-157.jpg",
         "details": "Junior college",
         "rating": "2.5",
         "fee": "4138",
@@ -62,7 +62,7 @@
     {
         "course_id": "7",
         "category_id": "02",
-        "photoURL": "Apricot",
+        "photoURL": "https://img.freepik.com/premium-vector/cute-colored-c-letter-with-flowers-hand-drawing-font-name-postcard-design_637721-157.jpg",
         "details": "Technical college",
         "rating": "2.7",
         "fee": "4255",
@@ -72,7 +72,7 @@
     {
         "course_id": "8",
         "category_id": "02",
-        "photoURL": "Sepia",
+        "photoURL": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg",
         "details": "University-preparatory school",
         "rating": "4.4",
         "fee": "4322",
@@ -82,7 +82,7 @@
     {
         "course_id": "9",
         "category_id": "02",
-        "photoURL": "Turquoise",
+        "photoURL": "https://img.freepik.com/free-vector/young-boy-laptop-python-concept_1308-21146.jpg",
         "details": "University-preparatory school",
         "rating": "4.4",
         "fee": "2656",
@@ -92,7 +92,7 @@
     {
         "course_id": "10",
         "category_id": "02",
-        "photoURL": "Sky blue",
+        "photoURL": "https://e7.pngegg.com/pngimages/961/251/png-clipart-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-thumbnail.png",
         "details": "University college",
         "rating": "4.3",
         "fee": "3890",
@@ -102,7 +102,7 @@
     {
         "course_id": "11",
         "category_id": "02",
-        "photoURL": "Auburn",
+        "photoURL": "https://www.freecodecamp.org/news/content/images/2021/10/golang.png",
         "details": "Graduate school",
         "rating": "2.4",
         "fee": "4503",
@@ -112,7 +112,7 @@
     {
         "course_id": "12",
         "category_id": "03",
-        "photoURL": "Lavender",
+        "photoURL": "https://img.freepik.com/premium-vector/code-icon-isolated-white-background-vector-illustration_736051-276.jpg",
         "details": "University college",
         "rating": "3.1",
         "fee": "3749",
@@ -122,7 +122,7 @@
     {
         "course_id": "13",
         "category_id": "03",
-        "photoURL": "Red",
+        "photoURL": "https://img.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg",
         "details": "Corporate university",
         "rating": "3.7",
         "fee": "1973",
@@ -132,7 +132,7 @@
     {
         "course_id": "14",
         "category_id": "03",
-        "photoURL": "coral",
+        "photoURL": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg",
         "details": "Graduate school",
         "rating": "1.1",
         "fee": "3286",
@@ -142,7 +142,7 @@
     {
         "course_id": "15",
         "category_id": "03",
-        "photoURL": "Camel",
+        "photoURL": "https://reactjs.org/logo-og.png",
         "details": "Junior college",
         "rating": "3.4",
         "fee": "4324",
@@ -152,7 +152,7 @@
     {
         "course_id": "16",
         "category_id": "03",
-        "photoURL": "Black",
+        "photoURL": "https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png",
         "details": "High school",
         "rating": "1.7",
         "fee": "1160",
@@ -162,7 +162,7 @@
     {
         "course_id": "17",
         "category_id": "03",
-        "photoURL": "Maroon",
+        "photoURL": "https://img.freepik.com/free-vector/young-boy-laptop-python-concept_1308-21146.jpg",
         "details": "High school",
         "rating": "1.8",
         "fee": "4052",
@@ -172,7 +172,7 @@
     {
         "course_id": "18",
         "category_id": "03",
-        "photoURL": "Aquamarine",
+        "photoURL": "https://www.fullstackpython.com/img/logos/django.png",
         "details": "University-preparatory school",
         "rating": "3.4",
         "fee": "3429",
@@ -182,7 +182,7 @@
     {
         "course_id": "19",
         "category_id": "03",
-        "photoURL": "Magenta",
+        "photoURL": "https://eduardovra.github.io/assets/img/flask-logo.png",
         "details": "Middle school",
         "rating": "1.43681593399347",
         "fee": "2394",
@@ -192,7 +192,7 @@
     {
         "course_id": "20",
         "category_id": "03",
-        "photoURL": "Black",
+        "photoURL": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png",
         "details": "Middle school",
         "rating": "1.4",
         "fee": "1236",
@@ -202,7 +202,7 @@
     {
         "course_id": "21",
         "category_id": "04",
-        "photoURL": "Ultramarine",
+        "photoURL": "https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg",
         "details": "University college",
         "rating": "4.85332371054838",
         "fee": "4830",
@@ -212,7 +212,7 @@
     {
         "course_id": "22",
         "category_id": "04",
-        "photoURL": "Beige",
+        "photoURL": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg",
         "details": "Middle school",
         "rating": "1.3",
         "fee": "2265",
@@ -222,7 +222,7 @@
     {
         "course_id": "23",
         "category_id": "04",
-        "photoURL": "Magenta",
+        "photoURL": "https://serokell.io/files/yc/yctimg60.deviator-1_(1).jpg",
         "details": "Corporate university",
         "rating": "1.85720313752871",
         "fee": "3723",
@@ -232,7 +232,7 @@
     {
         "course_id": "24",
         "category_id": "04",
-        "photoURL": "Olive",
+        "photoURL": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
         "details": "High school",
         "rating": "3.5",
         "fee": "1352",
@@ -242,7 +242,7 @@
     {
         "course_id": "25",
         "category_id": "05",
-        "photoURL": "Sky blue",
+        "photoURL": "https://i.ytimg.com/vi/SSo_EIwHSd4/maxresdefault.jpg",
         "details": "Public university",
         "rating": "2.9",
         "fee": "1148",
@@ -252,7 +252,7 @@
     {
         "course_id": "26",
         "category_id": "05",
-        "photoURL": "Amethyst",
+        "photoURL": "https://img.freepik.com/premium-vector/social-media-marketing-digital-laptop-technology_24908-12499.jpg",
         "details": "University-preparatory school",
         "rating": "2.1",
         "fee": "4118",
@@ -262,7 +262,7 @@
     {
         "course_id": "27",
         "category_id": "05",
-        "photoURL": "Green",
+        "photoURL": "https://img.freepik.com/premium-vector/5w1h-asking-questions-solution-solve-problem-thinking-process-business-analysis-get-new-idea-concept-calm-businessman-large-question-mark-thinking-who-what-where-when-why-how_212586-1630.jpg",
         "details": "High school",
         "rating": "4.2",
         "fee": "1291",
@@ -272,7 +272,7 @@
     {
         "course_id": "28",
         "category_id": "05",
-        "photoURL": "Emerald",
+        "photoURL": "https://img.freepik.com/premium-vector/job-interview-concept-with-icon-set-with-big-word-text-center_25156-797.jpg",
         "details": "Graduate school",
         "rating": "1.1",
         "fee": "3351",
@@ -282,7 +282,7 @@
     {
         "course_id": "29",
         "category_id": "05",
-        "photoURL": "Gold",
+        "photoURL": "https://img.freepik.com/premium-photo/gaming-concept-floating-gamepad-with-helmets-chest-prize-diamond-3d-illustration_522591-242.jpg",
         "details": "High school",
         "rating": "4.31486583282932",
         "fee": "3738",
@@ -292,7 +292,7 @@
     {
         "course_id": "30",
         "category_id": "05",
-        "photoURL": "Capri",
+        "photoURL": "https://img.freepik.com/premium-photo/hacker-jacket-with-hood-with-laptop-sits-table_164357-56.jpg",
         "details": "University college",
         "rating": "2.2",
         "fee": "2469",

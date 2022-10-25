@@ -1,0 +1,302 @@
+[
+    {
+        "course_id": "1",
+        "category_id": "01",
+        "photoURL": "Olive",
+        "details": "Corporate university",
+        "rating": "4.0",
+        "fee": "4683",
+        "title": "Data Structure & Algorithm",
+        "requiredTime": "4"
+    },
+    {
+        "course_id": "2",
+        "category_id": "01",
+        "photoURL": "Magenta",
+        "details": "University college",
+        "rating": "2.0",
+        "fee": "1943",
+        "title": "Database Management System",
+        "requiredTime": "21"
+    },
+    {
+        "course_id": "3",
+        "category_id": "01",
+        "photoURL": "Green",
+        "details": "Middle school",
+        "rating": "4.5",
+        "fee": "3467",
+        "title": "Operating System",
+        "requiredTime": "3"
+    },
+    {
+        "course_id": "4",
+        "category_id": "01",
+        "photoURL": "Red",
+        "details": "University-preparatory school",
+        "rating": "3.9",
+        "fee": "3468",
+        "title": "Compiler Design",
+        "requiredTime": "12"
+    },
+    {
+        "course_id": "5",
+        "category_id": "01",
+        "photoURL": "Mauve",
+        "details": "High school",
+        "rating": "2.2956195577493",
+        "fee": "3447",
+        "title": "Theory of Computation",
+        "requiredTime": "13"
+    },
+    {
+        "course_id": "6",
+        "category_id": "02",
+        "photoURL": "Brown",
+        "details": "Junior college",
+        "rating": "2.5",
+        "fee": "4138",
+        "title": "C",
+        "requiredTime": "16"
+    },
+    {
+        "course_id": "7",
+        "category_id": "02",
+        "photoURL": "Apricot",
+        "details": "Technical college",
+        "rating": "2.7",
+        "fee": "4255",
+        "title": "C++",
+        "requiredTime": "9"
+    },
+    {
+        "course_id": "8",
+        "category_id": "02",
+        "photoURL": "Sepia",
+        "details": "University-preparatory school",
+        "rating": "4.4",
+        "fee": "4322",
+        "title": "Javascript",
+        "requiredTime": "1"
+    },
+    {
+        "course_id": "9",
+        "category_id": "02",
+        "photoURL": "Turquoise",
+        "details": "University-preparatory school",
+        "rating": "4.4",
+        "fee": "2656",
+        "title": "Python",
+        "requiredTime": "1"
+    },
+    {
+        "course_id": "10",
+        "category_id": "02",
+        "photoURL": "Sky blue",
+        "details": "University college",
+        "rating": "4.3",
+        "fee": "3890",
+        "title": "Java",
+        "requiredTime": "13"
+    },
+    {
+        "course_id": "11",
+        "category_id": "02",
+        "photoURL": "Auburn",
+        "details": "Graduate school",
+        "rating": "2.4",
+        "fee": "4503",
+        "title": "Go",
+        "requiredTime": "3"
+    },
+    {
+        "course_id": "12",
+        "category_id": "03",
+        "photoURL": "Lavender",
+        "details": "University college",
+        "rating": "3.1",
+        "fee": "3749",
+        "title": "HTML",
+        "requiredTime": "8"
+    },
+    {
+        "course_id": "13",
+        "category_id": "03",
+        "photoURL": "Red",
+        "details": "Corporate university",
+        "rating": "3.7",
+        "fee": "1973",
+        "title": "CSS",
+        "requiredTime": "21"
+    },
+    {
+        "course_id": "14",
+        "category_id": "03",
+        "photoURL": "coral",
+        "details": "Graduate school",
+        "rating": "1.1",
+        "fee": "3286",
+        "title": "JavaScript",
+        "requiredTime": "2"
+    },
+    {
+        "course_id": "15",
+        "category_id": "03",
+        "photoURL": "Camel",
+        "details": "Junior college",
+        "rating": "3.4",
+        "fee": "4324",
+        "title": "ReactJS",
+        "requiredTime": "13"
+    },
+    {
+        "course_id": "16",
+        "category_id": "03",
+        "photoURL": "Black",
+        "details": "High school",
+        "rating": "1.7",
+        "fee": "1160",
+        "title": "VueJS",
+        "requiredTime": "7"
+    },
+    {
+        "course_id": "17",
+        "category_id": "03",
+        "photoURL": "Maroon",
+        "details": "High school",
+        "rating": "1.8",
+        "fee": "4052",
+        "title": "Python",
+        "requiredTime": "7"
+    },
+    {
+        "course_id": "18",
+        "category_id": "03",
+        "photoURL": "Aquamarine",
+        "details": "University-preparatory school",
+        "rating": "3.4",
+        "fee": "3429",
+        "title": "Django",
+        "requiredTime": "4"
+    },
+    {
+        "course_id": "19",
+        "category_id": "03",
+        "photoURL": "Magenta",
+        "details": "Middle school",
+        "rating": "1.43681593399347",
+        "fee": "2394",
+        "title": "Flask",
+        "requiredTime": "22"
+    },
+    {
+        "course_id": "20",
+        "category_id": "03",
+        "photoURL": "Black",
+        "details": "Middle school",
+        "rating": "1.4",
+        "fee": "1236",
+        "title": "MongoDB",
+        "requiredTime": "21"
+    },
+    {
+        "course_id": "21",
+        "category_id": "04",
+        "photoURL": "Ultramarine",
+        "details": "University college",
+        "rating": "4.85332371054838",
+        "fee": "4830",
+        "title": "Data Science",
+        "requiredTime": "15"
+    },
+    {
+        "course_id": "22",
+        "category_id": "04",
+        "photoURL": "Beige",
+        "details": "Middle school",
+        "rating": "1.3",
+        "fee": "2265",
+        "title": "Machine Learning",
+        "requiredTime": "19"
+    },
+    {
+        "course_id": "23",
+        "category_id": "04",
+        "photoURL": "Magenta",
+        "details": "Corporate university",
+        "rating": "1.85720313752871",
+        "fee": "3723",
+        "title": "Deep Learning",
+        "requiredTime": "5"
+    },
+    {
+        "course_id": "24",
+        "category_id": "04",
+        "photoURL": "Olive",
+        "details": "High school",
+        "rating": "3.5",
+        "fee": "1352",
+        "title": "Artificial Intelligence",
+        "requiredTime": "12"
+    },
+    {
+        "course_id": "25",
+        "category_id": "05",
+        "photoURL": "Sky blue",
+        "details": "Public university",
+        "rating": "2.9",
+        "fee": "1148",
+        "title": "BlockChain",
+        "requiredTime": "9"
+    },
+    {
+        "course_id": "26",
+        "category_id": "05",
+        "photoURL": "Amethyst",
+        "details": "University-preparatory school",
+        "rating": "2.1",
+        "fee": "4118",
+        "title": "Digital Marketing",
+        "requiredTime": "1"
+    },
+    {
+        "course_id": "27",
+        "category_id": "05",
+        "photoURL": "Green",
+        "details": "High school",
+        "rating": "4.2",
+        "fee": "1291",
+        "title": "Problem Solving Special",
+        "requiredTime": "22"
+    },
+    {
+        "course_id": "28",
+        "category_id": "05",
+        "photoURL": "Emerald",
+        "details": "Graduate school",
+        "rating": "1.1",
+        "fee": "3351",
+        "title": "Interview Preparation",
+        "requiredTime": "16"
+    },
+    {
+        "course_id": "29",
+        "category_id": "05",
+        "photoURL": "Gold",
+        "details": "High school",
+        "rating": "4.31486583282932",
+        "fee": "3738",
+        "title": "Game Development",
+        "requiredTime": "8"
+    },
+    {
+        "course_id": "30",
+        "category_id": "05",
+        "photoURL": "Capri",
+        "details": "University college",
+        "rating": "2.2",
+        "fee": "2469",
+        "title": "Ethical Hacking",
+        "requiredTime": "17"
+    }
+]

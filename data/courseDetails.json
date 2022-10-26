@@ -184,7 +184,7 @@
         "category_id": "03",
         "photoURL": "https://eduardovra.github.io/assets/img/flask-logo.png",
         "details": "Middle school",
-        "rating": "1.43681593399347",
+        "rating": "1.4",
         "fee": "2394",
         "title": "Flask",
         "requiredTime": "22"
@@ -204,7 +204,7 @@
         "category_id": "04",
         "photoURL": "https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg",
         "details": "University college",
-        "rating": "4.85332371054838",
+        "rating": "4.8",
         "fee": "4830",
         "title": "Data Science",
         "requiredTime": "15"
@@ -224,7 +224,7 @@
         "category_id": "04",
         "photoURL": "https://serokell.io/files/yc/yctimg60.deviator-1_(1).jpg",
         "details": "Corporate university",
-        "rating": "1.85720313752871",
+        "rating": "1.8",
         "fee": "3723",
         "title": "Deep Learning",
         "requiredTime": "5"
@@ -284,7 +284,7 @@
         "category_id": "05",
         "photoURL": "https://img.freepik.com/premium-photo/gaming-concept-floating-gamepad-with-helmets-chest-prize-diamond-3d-illustration_522591-242.jpg",
         "details": "High school",
-        "rating": "4.31486583282932",
+        "rating": "4.3",
         "fee": "3738",
         "title": "Game Development",
         "requiredTime": "8"

@@ -1,0 +1,163 @@
+[
+    {
+        "_id": "635a0d5d54040d732be794ea",
+        "c_id": 1,
+        "name": "Karen White",
+        "title": "What is CORS ?",
+        "description": "CORS stands for Cross Origin Resource Sharing, and it’s a protocol that allows servers to receive requests from different domains.\n To understand why CORS is necessary, it first helps to understand why it would be a problem to make a request from one domain to another in the first place. \n Cross - domain requests in JavaScript are restricted by the same - origin policy, which is a security standard enforced by the browser.It states that scripts loaded on one domain can only request resources that originate from the same domain.The purpose of the same - origin policy is to prevent attacks by malicious scripts. \n When we talk about cross origin requests, we’re usually talking about requests from one domain or subdomain to a different domain or subdomain.But different protocols(for example http vs https) or different ports can also constitute different origins. The same origin policy mainly comes into play when using methods like fetch or XMLHttpRequest to make an AJAX request.If you’re running a script on domain - one.com that calls out to a resource that’s also located on domain - one.com, you’re in the clear.But what if the resource you need is located on domain - two.com ? Unless domain - two.com has enabled CORS to give domain - one.com permission to access its resources, the request will be blocked.",
+        "published": "Jun 5, 2019",
+        "photoURL": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/cors_principle.png",
+        "isActive": false,
+        "link" : "https://medium.com/bigcommerce-developer-blog/lets-talk-about-cors-84800c726919"
+    },
+    {
+        "_id": "635a0d5d175fa2c4f4ae4407",
+        "c_id": 2,
+        "name": "Incididunt Cillum",
+        "title": "Why are you using firebase? What other options do you have to implement authentication?",
+        "description": "Firebase is basically a Google-backed app development platform which was initially developed by James Tamplin and Andrew Lee in 2011. It was officially launched in 2012, and right after the two years of launch, Google acquired this platform. In the beginning, Firebase was only designed as a Realtime database but after its acquisition by Google, it started giving more services.\r\n In simple words, Firebase is a software development platform that helps in building web and mobile applications with its 18 services. These 18 services of this BaaS solution also include purposeful APIs and four beta products. In addition, it is compatible to integrate with Android, web, iOS, and Unity setups. \r\n Tech and commerce giants which are using the cloud and BaaS services of Firebase are Alibaba Travels, Stack, Twitch and Instacart.\r\n Top 10 Advantages of Firebase are : \r\n 1. Reliable & Extensive Databases \r\n 2. Fast & Safe Hosting \r\n 3. Provides A Free Start to Newbies \r\n 4. Google Analytics \r\n 5. Firebase Cloud Messaging for Cross-Platform \r\n 6. Free Multi-Platform Firebase Authentication \r\n 7. Firebase Testing Services to Improve App Quality \r\n 8. Increment in Revenues with App Indexing API \r\n 9. Free Use of Firebase Dynamic Links \r\n 10. Machine Learning Capabilities \r\n Alternatives of firebase : \r\n Firebase provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, \r\n Firebase Authentication is a tool in the User Management and Authentication category of a tech stack. \r\n TOP ALTERNATIVES TO FIREBASE AUTHENTICATION : 1.Auth0 \r\n A set of unified APIs and tools that instantly enables Single Sign On and user ... \r\n 2.MongoDB \r\n MongoDB stores data in JSON-like documents that can vary in structure, offering ... \r\n 3.JSON Web Token \r\n JSON Web Token is an open standard that defines a compact and self-contained ... \r\n 4.Amazon Cognito \r\n You can create unique identities for your users through a number of public login ... \r\n 5.Passport \r\n It is authentication middleware for Node.js. Extremely flexible and modular, ... \r\n 6. Keycloak \r\n It is an Open Source Identity and Access Management For Modern Applications ... \r\n 7.Okta \r\n Connect all your apps in days, not months, with instant access to thousands ...",
+        "published": "2017-04-18",
+        "photoURL": "https://cdn-media-1.freecodecamp.org/images/1*AoarrKQjCE0zVJkxl9za8Q.jpeg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5d2bdff8752cefeba8",
+        "c_id": 3,
+        "name": "Binh Tran",
+        "title": "How does the private route work?",
+        "description": "React Router is one of the most important components of React ecosystem. In this tutorial, we will learn how to build different types of routes including private, public, and restricted routes. For a quick demonstration, we will build a simple application with following components: \n\r\n Home: a public route that everyone can access to.  \n\r\n Dashboard: a private route that only authenticated user can access to. \n\r\n Sign-in: a restricted route that unauthenticated user can see. To explain more, we don’t want to show the sign-in page after logged in to the site. If the authorised user goes to the sign-in page, we will redirect to dashboard page. \n\r\n Note: Please check the Github repository for the full source code \n\r\n Private Route \n\r\n PrivateRoute component is the blueprint for all private routes in the application. If the user is logged in, go on and display the component in question; otherwise, redirect the user to sign-in page. Additionally, we can define the logic of isLogin utility function separately in utils folder. \n\r\n Public Route \n\r\n On the other hand, PublicRoute component is the model for all public and restricted routes. The difference between two types is defined if restricted props. restricted = false meaning that route is public; or else, it is restricted. \n\r\n Put all together in the <App>  \n\r\n Finally come to the <App>, we can conveniently declare all the routes we want without a sweat. \n\r\n Conclusion  \n\r\n Hopefully, this tutorial can give you more insight into different types of routes and how to use them. \n\r\n Please check this GitHub repository for the full source code and see the working example. \n\r\n If you find the post useful, give me some claps  \n\r\n Buy me a coffee https://www.buymeacoffee.com/binhtran \n\r\n ",
+        "published": "Dec 1, 2018",
+        "photoURL": "https://img.youtube.com/vi/Y0-qdp-XBJg/maxresdefault.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5dce5d36e407a5d32d",
+        "c_id": 4,
+        "name": "deserunt incididunt",
+        "title": "What is Node? How does Node work?",
+        "description": "Node.js is an open-source backend javascript runtime environment. It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node.js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive. \n\r\n Working of Node.js: Node.js accepts the request from the clients and sends the response, while working with the request node.js handles them with a single thread. To operate I/O operations or requests node.js use the concept of threads. Thread is a sequence of instructions that the server needs to perform. It runs parallel on the server to provide the information to multiple clients. Node.js is an event loop single-threaded language. It can handle concurrent requests with a single thread without blocking it for one request. \n\r\n Node.js basically works on two concept \n\r\n Asynchronous \n\r\n Non-blocking I/O \n\r\n Non-blocking I/o: Non-blocking i/o  means working with multiple requests without blocking the thread for a single request. I/O basically interacts with external systems such as files, databases. Node.js is not used for CPU-intensive work means for calculations, video processing because a single thread cannot handle the CPU works. \n\r\n Asynchronous: Asynchronous is executing a callback function. The moment we get the response from the other server or database it will execute a callback function. Callback functions are called as soon as some work is finished and this is because the node.js uses an event-driven architecture. The single thread doesn’t work with the request instead it sends the request to another system which resolves the request and it is accessible for another request. \n\r\n To implement the concept of the system to handle the request  node.js uses the concept of Libuv. \n\r\n Libuv is an open-source library built-in C. It has a strong focus on asynchronous and  I/O, this gives node access to the underlying computer operating system, file system, and networking. \n\r\n Libuv implements two extremely important features of node.js  \n\r\n Event loop \n\r\n Thread pool \n\r\n Event loop: The event loop contains a single thread and is responsible for handling easy tasks like executing callbacks and network I/O. When the program is to initialize all the top-level code is executed, the code is not in the callback function. All the applications code that is inside callback functions will run in the event loop. EventLoop is the heart of node.js. When we start our node application the event loop starts running right away. Most of the work is done in the event loop. \n\r\n Nodejs use event-driven-architecture. \n\r\n Events are emitted. \n\r\n Event loop picks them up. \n\r\n Callbacks are called. \n\r\n Event queue: As soon as the request is sent the thread places the request into a queue. It is known as an event queue. The process like app receiving HTTP request or server or a timer will emit event as soon as they are done with the work and event loop will pick up these events and call the callback functions that are associated with each event and response is sent to the client.  \n\r\n The event loop is an indefinite loop that continuously receives the request and processes them. It checks the queue and waits for the incoming request indefinitely. \n\r\n Thread pool: Though node.js is single-threaded it internally maintains a thread pool. When non-blocking requests are accepted there are processed in an event loop, but while accepting blocking requests it checks for available threads in a thread pool, assigns a thread to the client’s request which is then processed and send back to the event loop, and response is sent to the respective client. \n\r\n The thread pool size can be change: \n\r\n process.env.UV_THREADPOOL_SIZE = 1;",
+        "published": "08 Feb, 2022",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5dcf3d6ba54eed427c",
+        "c_id": 4,
+        "name": "laborum do",
+        "title": "cillum in consequat est ullamco quis sit consectetur in minim",
+        "description": "Proident excepteur culpa id culpa consectetur dolor cillum occaecat et deserunt. Ex laborum sint elit esse aliquip commodo in ex cupidatat consectetur eu. Adipisicing veniam ut culpa ex laboris non nostrud et. Adipisicing enim amet ea sint esse nostrud anim occaecat commodo pariatur duis. Aute eiusmod adipisicing consectetur cupidatat anim adipisicing fugiat ut et veniam minim magna. Officia mollit ut esse esse.\r\n",
+        "published": "2015-09-19",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5d5ecad30cc86377a5",
+        "c_id": 3,
+        "name": "laboris quis",
+        "title": "ad do fugiat ullamco occaecat eu occaecat qui qui dolore",
+        "description": "Magna aliquip pariatur enim cupidatat veniam labore deserunt. Deserunt sunt consectetur commodo voluptate nostrud commodo nostrud aliqua proident aliqua. Cillum nulla anim fugiat laboris exercitation ut. Velit velit dolore occaecat sint in anim tempor adipisicing nostrud tempor adipisicing. Ad elit ipsum est deserunt magna adipisicing culpa anim consectetur ad velit non.\r\n",
+        "published": "Jun 5, 2019",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5d08e754c5622a7c4c",
+        "c_id": 2,
+        "name": "tempor enim",
+        "title": "consequat proident aliquip ad adipisicing nulla reprehenderit sint aute consectetur",
+        "description": "Proident sit eu ipsum elit aute minim ex. Ut id qui minim id Lorem dolore commodo reprehenderit eu duis id dolor labore. Amet sint tempor nostrud culpa enim reprehenderit quis tempor irure laboris id anim.\r\n",
+        "published": "2019-03-21",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5dcc5997ec0a03bc2c",
+        "c_id": 4,
+        "name": "quis ipsum",
+        "title": "fugiat esse amet reprehenderit minim ad ipsum irure sunt consequat",
+        "description": "Enim sint veniam enim aliqua aliqua ullamco velit sunt. Qui qui culpa sunt non. Ut qui eu nisi ea.\r\n",
+        "published": "2021-03-12",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5deb40ec919e780092",
+        "c_id": 3,
+        "name": "cillum labore",
+        "title": "amet veniam minim quis aute sunt consequat labore aliquip ipsum",
+        "description": "Adipisicing in proident incididunt magna pariatur esse enim incididunt enim deserunt velit. Id duis adipisicing officia sint. Dolore mollit qui sit id officia excepteur ipsum ipsum labore quis amet ullamco. Aliqua exercitation laborum magna exercitation exercitation nulla. Adipisicing deserunt commodo sit dolore enim aute esse quis sunt. Reprehenderit do cillum voluptate aute tempor.\r\n",
+        "published": "2021-04-23",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5d9264e7410b12ea99",
+        "c_id": 2,
+        "name": "nisi veniam",
+        "title": "fugiat sit nulla sit magna cupidatat enim minim consequat est",
+        "description": "Lorem labore sit esse Lorem enim laborum. Sint anim sunt pariatur culpa duis laborum et. Non officia elit qui esse laborum enim labore nostrud do magna ipsum cupidatat elit irure.\r\n",
+        "published": "2014-12-25",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5d5d0f1c08175ea8f4",
+        "c_id": 4,
+        "name": "incididunt tempor",
+        "title": "aute quis anim incididunt excepteur esse ipsum aliquip dolor pariatur",
+        "description": "Quis nulla cillum dolor aute nulla qui anim voluptate ad pariatur ea laboris ullamco. Aliquip amet elit ea pariatur veniam cillum tempor aliquip dolore nisi laborum enim. Ut est incididunt sunt incididunt veniam excepteur consectetur. Duis fugiat cupidatat est aliquip eu enim exercitation ut. Pariatur non nulla ullamco dolor sunt.\r\n",
+        "published": "2017-12-19",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5dbeab6a78e5c9dc9f",
+        "c_id": 2,
+        "name": "pariatur nisi",
+        "title": "qui eiusmod amet dolore aute duis irure sunt et veniam",
+        "description": "Elit esse ea elit fugiat exercitation id pariatur. Deserunt eu nulla laboris eu adipisicing exercitation et ipsum laboris dolor excepteur mollit enim. Veniam commodo officia proident aute ipsum est dolor ex nisi irure id incididunt. Adipisicing esse dolore non consectetur ipsum.\r\n",
+        "published": "2020-11-18",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5dc914840041f6fe25",
+        "c_id": 3,
+        "name": "ut voluptate",
+        "title": "sit esse voluptate commodo voluptate magna anim culpa enim officia",
+        "description": "Ullamco in anim nostrud non laboris commodo enim. Dolor Lorem esse enim occaecat sint anim incididunt aliqua elit consectetur tempor eiusmod. Id labore officia ipsum irure quis voluptate pariatur cillum cillum sit consectetur magna id et.\r\n",
+        "published": "2021-12-27",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": true
+    },
+    {
+        "_id": "635a0d5dd6abd7c3be960d2b",
+        "c_id": 2,
+        "name": "irure dolore",
+        "title": "qui Lorem magna anim ea qui sunt irure proident magna",
+        "description": "Pariatur non non ea aliqua et ex veniam eiusmod. Lorem labore est elit culpa et. Dolor aliquip duis dolore elit in officia velit exercitation sit adipisicing.\r\n",
+        "published": "2020-04-15",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5dbb11370a7e3375c2",
+        "c_id": 1,
+        "name": "est minim",
+        "title": "sunt eu exercitation fugiat cillum anim mollit amet aliqua minim",
+        "description": "Nisi irure nostrud ad sit laborum ipsum cupidatat aliqua sit. Anim anim id eiusmod aute quis. Ut Lorem laboris eu ut deserunt consequat. Ipsum occaecat cupidatat dolor nisi incididunt. Aute proident id excepteur minim laborum id ullamco amet labore sint.\r\n",
+        "published": "2016-08-06",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    },
+    {
+        "_id": "635a0d5da95d3eb33bf2583d",
+        "c_id": 4,
+        "name": "qui magna",
+        "title": "excepteur officia laborum aliquip veniam cillum qui occaecat nulla ad",
+        "description": "Voluptate magna esse minim duis proident sint irure eiusmod consectetur fugiat Lorem consectetur sunt. Deserunt ex cillum nisi occaecat cupidatat consectetur anim. Dolore laborum sunt aliquip ipsum duis sint nostrud. Mollit non ea veniam culpa sunt nostrud ex reprehenderit enim occaecat veniam in esse. Sint est consectetur minim cupidatat eu quis. Aute velit adipisicing qui in adipisicing duis veniam commodo laborum fugiat elit fugiat irure.\r\n",
+        "published": "2018-09-14",
+        "photoURL": "https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg",
+        "isActive": false
+    }
+]

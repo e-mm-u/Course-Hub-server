@@ -35,9 +35,20 @@ app.get('/courses', (req,res)=>{
 // get the course details based on dynamic course id 
 app.get('/course/:id', (req,res)=>{
     const id = req.params.id;
-    const course_detail = courses.find(course => course.course_id === id)
+    const course_detail = courses.find(course => course.course_id === id);
     res.json(course_detail);
 });
+
+// =========================   BLOG  ==============================
+const blogs = require('./data/blogDetails.json');
+app.get('/blogs', (req,res)=>{
+    res.json(blogs);
+})
+app.get('/blogs/:id', (req,res)=>{
+    const id = req.params.id;
+    const blog_details = blogs.find(blog => blog._id === id);
+    res.json(blog_details);
+})
 
 app.listen(port, ()=>{
     console.log('course server api is running on port ', port);
